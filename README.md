@@ -3,11 +3,11 @@
 
 
 # Как запустить?
-1.Скачиваем наш index.php\n
-2.Создаем composer.json\n
-3. После создания вводим composer init и заполняем его\n
-4. Далее вводим: composer require phpoffice/phpspreadsheet (Библиотека для работы с xlsx файлами)\n
-5. В самом коде я оставил пример правильного использования скрипта\n
-6. Запускаем и наслаждаемся работой\n
+1.Скачиваем наш index.php
+2.Создаем composer.json
+3. После создания вводим composer init и заполняем его
+4. Далее вводим: composer require phpoffice/phpspreadsheet (Библиотека для работы с xlsx файлами)
+5. В самом коде я оставил пример правильного использования скрипта
+6. Запускаем и наслаждаемся работой
 ![image](https://github.com/user-attachments/assets/fbc1b2e6-bf75-4570-9379-1dbc31794ca6)
 
