@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a02ae20e-72d0-4275-8131-ca9b2fce1255)# Face_Mero
+# Face_Mero
 Простенький парсер для сбора сведений о лицах, вход которым запрещен на официальные спортивные соревнования
 
 
